@@ -6,5 +6,5 @@ A curated list of resources that members of our group have found useful, as insp
 * [Pollard Lab GitHub Group](https://github.com/pollardlab)
 * [Alex William's TimeForScience Repo](https://github.com/alexgraehl/TimeForScience)
 
-## Programming packages and tools
+## Programming Packages and Tools
 * [awesome-R](https://github.com/qinwf/awesome-R)
