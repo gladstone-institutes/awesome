@@ -1,5 +1,5 @@
 # awesome
-A curated list of resources that members of our group have found useful, as inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
+A curated list of resources that members of our group have found useful, as inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning). Feel free to update!
 
 ## Gladstone and Alums
 * [Gladstone Institutes GitHub Group](https://github.com/gladstone-institutes)
